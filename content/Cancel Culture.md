@@ -2,6 +2,8 @@
 sticker: emoji//1f6ab
 dg-publish: true
 share: true
+description: "Hot Take : Cancel Culture is BASED"
+banner: Politics/attachments/attachments/Pasted image 20240607104146.png
 ---
 **Cancel culture** is a manifestation of **[[free market|free market]] principles** applied to social and cultural contexts . 
 In a free market, consumers exercise their power through choice, opting for products and services that align with what they value and rejecting those that do not. Similarly, cancel culture represents a collective decision by individuals to support or withdraw support from public figures and entities based on their actions and statements. This is akin to the market mechanism where demand for a product decreases if it fails to meet consumer expectations or ethical standards.
