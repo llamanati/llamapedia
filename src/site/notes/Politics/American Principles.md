@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/politics/american-principles/","noteIcon":""}
 ---
 
+
 - # **Liberty:** 
 	- Freedom from undue governmental interference in personal choices and actions.
     

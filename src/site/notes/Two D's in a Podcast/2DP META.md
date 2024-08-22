@@ -2,13 +2,14 @@
 {"dg-publish":true,"permalink":"/two-d-s-in-a-podcast/2-dp-meta/","noteIcon":""}
 ---
 
+
 # Improvements
-- Preperation
+- Preparation
 	- Themes
 	- Stumps
 
 
-## TOM Processes 
+## TOM Processes
 > Things to systemize logically
 
 1. First Principle breakdown
@@ -25,12 +26,12 @@
 
 
 		
-### Kantian Method: 
+### Kantian Method:
 Analyze the basic structure and form of the problem, discuss a priori conditions and limitations.
-###  Hegelian Method: 
+### Hegelian Method:
 View the problem as a process of contradiction and negation, explore how to reach higher truth through this process.
 ### Ethical and Aesthetic Evaluation:
 Kantian Method: Transform the problem into a universal law, evaluate its moral value.
 
-### Hegelian Method: 
+### Hegelian Method:
 Consider the problem's position in historical and spiritual development.

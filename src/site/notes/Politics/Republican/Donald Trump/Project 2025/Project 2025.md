@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/politics/republican/donald-trump/project-2025/project-2025/","noteIcon":""}
 ---
 
+
 [[Politics/Republican/Donald Trump/Donald Trump\|Donald Trump]] has tried to distance himself from project 2025 in an all too familiar way. 
 one thing trump has done consistently has been to pretend he had never heard of someone or something emerging in the media that he knows will be damaging. 
 

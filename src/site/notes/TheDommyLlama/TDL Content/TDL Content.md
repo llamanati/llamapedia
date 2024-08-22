@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/the-dommy-llama/tdl-content/tdl-content/","noteIcon":""}
 ---
 
+
 [[Philosophy/First Principles\|First Principles]]
 
 # Formats

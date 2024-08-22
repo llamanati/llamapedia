@@ -3,6 +3,8 @@
 ---
 
 
+[[!PARA/!PARA\|!PARA]]
+
 # [[Philosophy/Philosophy\|Philosophy]] | [[Politics/Politics\|Politics]] | [[TheDommyLlama/TDL Content/TDL Content\| Content]]
 # [[Concepts/Meta-Ethics\|Meta-Ethics]]
 

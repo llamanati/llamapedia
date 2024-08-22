@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/book-notes/shameless-book-notes/","noteIcon":""}
 ---
 
+
 ## Shameless: Republicans’ Deliberate Dysfunction and the Battle to Preserve Democracy - Notes
 
 
